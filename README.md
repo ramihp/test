@@ -1,5 +1,6 @@
 ## Hi there 👋
 <!--
+curl $REPLIT_DB_URL -d 'key=value'
 
 **Here are some ideas to get you started:**
 
